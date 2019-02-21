@@ -1,0 +1,6 @@
+<resources>
+<string name="gpsButton">Start GPS Tracking</string>
+    <string name="app_name">emaweek4</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+</resources>
